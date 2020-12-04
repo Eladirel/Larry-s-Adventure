@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 464504f0b954c4cae8304670cbf2cca4
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: bindArmature
+  - first:
+      1: 100002
+    second: Chest
+  - first:
+      1: 100004
+    second: Clavicle_L
+  - first:
+      1: 100006
+    second: Clavicle_R
+  - first:
+      1: 100008
+    second: Fingers_1_L
+  - first:
+      1: 100010
+    second: Fingers_1_R
+  - first:
+      1: 100012
+    second: Fingers_2_L
+  - first:
+      1: 100014
+    second: Fingers_2_R
+  - first:
+      1: 100016
+    second: Foot_L
+  - first:
+      1: 100018
+    second: Foot_R
+  - first:
+      1: 100020
+    second: Hand_L
+  - first:
+      1: 100022
+    second: Hand_R
+  - first:
+      1: 100024
+    second: Head
+  - first:
+      1: 100026
+    second: Hip
+  - first:
+      1: 100028
+    second: Index_1_L
+  - first:
+      1: 100030
+    second: Index_1_R
+  - first:
+      1: 100032
+    second: Index_2_L
+  - first:
+      1: 100034
+    second: Index_2_R
+  - first:
+      1: 100036
+    second: LarryPitfall
+  - first:
+      1: 100038
+    second: //RootNode
+  - first:
+      1: 100040
+    second: LoweLeg_L
+  - first:
+      1: 100042
+    second: LoweLeg_R
+  - first:
+      1: 100044
+    second: LowerArm_L
+  - first:
+      1: 100046
+    second: LowerArm_R
+  - first:
+      1: 100048
+    second: Neck
+  - first:
+      1: 100050
+    second: Stomach
+  - first:
+      1: 100052
+    second: Thumb_1_L
+  - first:
+      1: 100054
+    second: Thumb_1_R
+  - first:
+      1: 100056
+    second: Thumb_2_L
+  - first:
+      1: 100058
+    second: Thumb_2_R
+  - first:
+      1: 100060
+    second: Toe_L
+  - first:
+      1: 100062
+    second: Toe_R
+  - first:
+      1: 100064
+    second: UpperArm_L
+  - first:
+      1: 100066
+    second: UpperArm_R
+  - first:
+      1: 100068
+    second: UpperLeg_L
+  - first:
+      1: 100070
+    second: UpperLeg_R
+  - first:
+      4: 400000
+    second: bindArmature
+  - first:
+      4: 400002
+    second: Chest
+  - first:
+      4: 400004
+    second: Clavicle_L
+  - first:
+      4: 400006
+    second: Clavicle_R
+  - first:
+      4: 400008
+    second: Fingers_1_L
+  - first:
+      4: 400010
+    second: Fingers_1_R
+  - first:
+      4: 400012
+    second: Fingers_2_L
+  - first:
+      4: 400014
+    second: Fingers_2_R
+  - first:
+      4: 400016
+    second: Foot_L
+  - first:
+      4: 400018
+    second: Foot_R
+  - first:
+      4: 400020
+    second: Hand_L
+  - first:
+      4: 400022
+    second: Hand_R
+  - first:
+      4: 400024
+    second: Head
+  - first:
+      4: 400026
+    second: Hip
+  - first:
+      4: 400028
+    second: Index_1_L
+  - first:
+      4: 400030
+    second: Index_1_R
+  - first:
+      4: 400032
+    second: Index_2_L
+  - first:
+      4: 400034
+    second: Index_2_R
+  - first:
+      4: 400036
+    second: LarryPitfall
+  - first:
+      4: 400038
+    second: //RootNode
+  - first:
+      4: 400040
+    second: LoweLeg_L
+  - first:
+      4: 400042
+    second: LoweLeg_R
+  - first:
+      4: 400044
+    second: LowerArm_L
+  - first:
+      4: 400046
+    second: LowerArm_R
+  - first:
+      4: 400048
+    second: Neck
+  - first:
+      4: 400050
+    second: Stomach
+  - first:
+      4: 400052
+    second: Thumb_1_L
+  - first:
+      4: 400054
+    second: Thumb_1_R
+  - first:
+      4: 400056
+    second: Thumb_2_L
+  - first:
+      4: 400058
+    second: Thumb_2_R
+  - first:
+      4: 400060
+    second: Toe_L
+  - first:
+      4: 400062
+    second: Toe_R
+  - first:
+      4: 400064
+    second: UpperArm_L
+  - first:
+      4: 400066
+    second: UpperArm_R
+  - first:
+      4: 400068
+    second: UpperLeg_L
+  - first:
+      4: 400070
+    second: UpperLeg_R
+  - first:
+      43: 4300000
+    second: LarryPitfall
+  - first:
+      74: 7400000
+    second: run
+  - first:
+      74: 7400002
+    second: attack
+  - first:
+      74: 7400004
+    second: attack_fast
+  - first:
+      74: 7400006
+    second: backward
+  - first:
+      74: 7400008
+    second: dead
+  - first:
+      74: 7400010
+    second: fall
+  - first:
+      74: 7400012
+    second: hit
+  - first:
+      74: 7400014
+    second: idle
+  - first:
+      74: 7400016
+    second: idle_sword
+  - first:
+      74: 7400018
+    second: land
+  - first:
+      74: 7400020
+    second: run
+  - first:
+      74: 7400022
+    second: run_sword
+  - first:
+      74: 7400024
+    second: sword_dash
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: LarryPitfall
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Backpack__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boots__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pants__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ribbon__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skin__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sole__LarryPitfall_bake_png
+    second: {fileID: 2100000, guid: 1011320df8a54487da92d58a2ca97915, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Default Take
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.058227874
+        functionName: Step
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5767926
+        functionName: Step
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bindArmature
+        weight: 1
+      - path: bindArmature/Hip
+        weight: 1
+      - path: bindArmature/Hip/Stomach
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Fingers_1_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Fingers_1_L/Fingers_2_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Index_1_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Index_1_L/Index_2_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_1_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_L/UpperArm_L/LowerArm_L/Hand_L/Thumb_1_L/Thumb_2_L
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Fingers_1_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Fingers_1_R/Fingers_2_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Index_1_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Index_1_R/Index_2_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_1_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Clavicle_R/UpperArm_R/LowerArm_R/Hand_R/Thumb_1_R/Thumb_2_R
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Neck
+        weight: 1
+      - path: bindArmature/Hip/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L/LoweLeg_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L/LoweLeg_L/Foot_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_L/LoweLeg_L/Foot_L/Toe_L
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R/LoweLeg_R
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R/LoweLeg_R/Foot_R
+        weight: 1
+      - path: bindArmature/Hip/UpperLeg_R/LoweLeg_R/Foot_R/Toe_R
+        weight: 1
+      - path: LarryPitfall
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Hip
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
